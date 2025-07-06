@@ -116,7 +116,7 @@ function App() {
             <div className="about-text" data-aos="fade-left">
               <h3>I'm Nnamdi George Benedict</h3>
               <p>Experienced Full Stack Developer with expertise in both frontend and backend technologies. I create comprehensive web solutions that are performant, scalable, and user-friendly.</p>
-              <p>As a passionate Full Stack Developer with a proven track record of building dynamic, user-focused web solutions. With deep expertise spanning frontend and backend technologies, I craft responsive applications that are both scalable and intuitive. My journey has taken me through diverse projects, from e-commerce platforms to productivity tools, where I've honed skills in React, Node.js, MongoDB, with all other frameworks and libraries .What drives me is the opportunity to turn ideas into reality, blending creativity with technical precision. Whether it's optimizing performance, enhancing user experiences, or providing ongoing support, I'm committed to delivering excellence. Based in Lagos, Nigeria, I thrive on collaboration and am excited to bring your vision to life with tailored, high-quality web development.</p>
+              <p>As a passionate Full Stack Developer with a proven track record of building dynamic, user-focused web solutions. With deep expertise spanning frontend and backend technologies, I craft responsive applications that are both scalable and intuitive. My journey has taken me through diverse projects, from e-commerce platforms to productivity tools, where I've honed skills in React, Node.js, MongoDB, with all other frameworks and libraries .What drives me is the opportunity to turn ideas into reality, blending creativity with technical precision. Whether it's optimizing performance, enhancing user experiences, or providing ongoing support, I'm committed to delivering excellence. Based in Oyo, Nigeria, I thrive on collaboration and am excited to bring your vision to life with tailored, high-quality web development.</p>
             </div>
           </div>
         </div>
@@ -306,7 +306,7 @@ function App() {
                 </div>
                 <div>
                   <h4>Location</h4>
-                  <p>Lagos, Nigeria</p>
+                  <p>Oyo, Nigeria</p>
                 </div>
               </div>
               <div className="info-item">
